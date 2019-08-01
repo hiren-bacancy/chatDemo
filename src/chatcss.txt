@@ -1,0 +1,13 @@
+    w * h
+
+0) image 78 * 48  (initial)
+1) rz-chat  380 * 473  menu0
+2) arrow-down 380 * 132
+3) close  78 * 48
+4) FAQ 380 * 589   menu2 
+5) Form 380 * 599  menu1
+6) Chat 380 * 652  menu3
+
+SUBMIT  btn0  menu0 --> menu2
+Lets Do Chat  btn2  menu2 --> menu1
+submit btn1  menu1 --> menu3
